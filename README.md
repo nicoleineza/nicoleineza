@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, and Iâ
 - Any fun side projects where I can contribute and learn with others.
 
 ## ðŸ“« How to reach me ...
-- Email: [nicoleineza@example.com](mailto:inezanicol@gmail.com)
+- Email: [inezanicol@gmail.com](mailto:inezanicol@gmail.com)
 - LinkedIn: [@nicoleineza](https://www.linkedin.com/in/nicole-ineza/)
 - Twitter: [@nicoleineza](https://twitter.com/nicoleineza)
 
